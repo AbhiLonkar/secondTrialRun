@@ -1,3 +1,5 @@
 This is the template for chapter1.  
 
 Let's add another chapter to it.
+
+This is super fun.
